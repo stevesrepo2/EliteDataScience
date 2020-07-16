@@ -1,0 +1,5 @@
+Listing,Address,City,Neighbourhood,Beds,Baths,Property Type,Unit Type,Sold Date,Selling Price,Asking Price (Final),Asking Price (Original),Sqft,Age,Property Tax,Ownership Type,Maintenance Fee,Rules,Zoning
+R2459958,# 112 4363 HALIFAX STREET,Burnaby,Brentwood Park,2,1,Apartment,Ground Level Unit,,,,"$489,000",885,38,"$1,895.98",Freehold Strata,$330.61,"Pets Not Allowed, Rentals Allowed",CD
+R2472749,# 205 5450 EMPIRE DRIVE,Burnaby,Capitol Hill BN,1,1,Apartment,Inside Unit,,,,"$324,900",710,45,"$1,643.68",Freehold Strata,$338.46,"Pets Allowed with Restrictions, Rentals Allowed with Restrictions",RM3
+R2471373,# 302 5335 HASTINGS STREET,Burnaby,Capitol Hill BN,2,1,Apartment,"Corner Unit, End Unit",,,,"$498,000",864,34,"$1,822.54",Freehold Strata,$334.47,"Pets Not Allowed, Rentals Allowed with Restrictions",RM3
+R2473202,# 206 5335 HASTINGS STREET,Burnaby,Capitol Hill BN,1,1,Apartment,"1 Storey, Ground Level Unit",,,,"$409,000",821,34,"$1,811.18",Freehold Strata,$311.17,"Pets Not Allowed, Rentals Allowed with Restrictions",RM3
